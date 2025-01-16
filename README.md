@@ -1,5 +1,8 @@
 # Advanced-Analytics-for-Organisational-Impact
 
+Licensed under CC BY-NC-ND 4.0. View the LICENSE file for details.
+
+
 ## Project Description
 Turtle Games is a global game manufacturer and retailer offering a variety of products, including books, board games, video games, and toys. The company seeks to answer key business questions related to customer engagement, loyalty point accumulation, customer segmentation, and how text data (e.g., customer reviews) can inform marketing strategies.
 
